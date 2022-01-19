@@ -2,6 +2,8 @@ package com.tk.hibernate.entity;
 
 import javax.persistence.Embeddable;
 
+// Use embeddable to add this in the Entity
+
 @Embeddable
 public class StudentName {
 
